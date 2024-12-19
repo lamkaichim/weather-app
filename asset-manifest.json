@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lamkaichim/weather-app/static/css/main.b9531c8b.css",
+    "main.js": "/lamkaichim/weather-app/static/js/main.d8117908.js",
+    "index.html": "/lamkaichim/weather-app/index.html",
+    "main.b9531c8b.css.map": "/lamkaichim/weather-app/static/css/main.b9531c8b.css.map",
+    "main.d8117908.js.map": "/lamkaichim/weather-app/static/js/main.d8117908.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9531c8b.css",
+    "static/js/main.d8117908.js"
+  ]
+}
